@@ -1,0 +1,6 @@
+{
+  "name": "Neatify",
+  "description": "Smart urban cleanliness management platform for citizens, workers, and administrators.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["AI-powered issue categorization", "Real-time task tracking", "Gamified citizen reporting"]
+}
